@@ -1,14 +1,14 @@
 # calculator-obj-c
 Project of calculator build from iOS sdk 13
 
-# Screenshot
+## Screenshot
 
 ![Alt text](/screenshots/img1.jpg?raw=true "Main Screen")
 
-# Main Functions:
+## Main Functions:
 
-## - show label of history operation and operand
-## - operations: 
+### - show label of history operation and operand
+### - operations: 
 1. "+" 
 2. "/" 
 3. "-" 
@@ -21,4 +21,4 @@ Project of calculator build from iOS sdk 13
 10. standard cos
 11. 1/x
 12. Memory operation with Operand: Store, Recall, m+, Clear
-## Process counting operands done like vanilla IOS calculator
+### Process counting operands done like vanilla IOS calculator
