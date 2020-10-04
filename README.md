@@ -1,9 +1,9 @@
 # calculator-obj-c
-Project of calculator build from iOS sdk 13 t
+Project of calculator build from iOS sdk 13 and using MVC architecture
 
 ## Screenshot
 
-![Alt text](/screenshots/img1.jpg?raw=true "Main Screen")
+![Alt text](/Calculator/screenshots/calculator.png?raw=true "Main Screen")
 
 ## Main Functions:
 
