@@ -8,6 +8,8 @@ Project of calculator build from iOS sdk 13 and using MVC architecture
 ## Main Functions:
 
 ### show label of history operation and operand
+### show label of memory operand if was used
+### process counting operands done like vanilla IOS calculator
 ### operations: 
 1. "+" 
 2. "/" 
@@ -21,4 +23,5 @@ Project of calculator build from iOS sdk 13 and using MVC architecture
 10. standard cos
 11. 1/x
 12. Memory operation with Operand: Store, Recall, m+, Clear
-### Process counting operands done like vanilla IOS calculator
+
+<!--30h was spent on to done this app-->
