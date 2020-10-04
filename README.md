@@ -3,7 +3,7 @@ Project of calculator build from iOS sdk 13 and using MVC architecture
 
 ## Screenshot
 
-![Alt text](/Calculator/Screenshots/calculator.png=200x200)
+<img src="./Calculator/Screenshots/calculator.png" height="500">
 
 ## Main Functions:
 
