@@ -1,5 +1,5 @@
 # calculator-obj-c
-Project of calculator build from iOS sdk 13
+Project of calculator build from iOS sdk 13 t
 
 ## Screenshot
 
@@ -7,8 +7,8 @@ Project of calculator build from iOS sdk 13
 
 ## Main Functions:
 
-### - show label of history operation and operand
-### - operations: 
+### show label of history operation and operand
+### operations: 
 1. "+" 
 2. "/" 
 3. "-" 
