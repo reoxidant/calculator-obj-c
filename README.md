@@ -3,7 +3,7 @@ Project of calculator build from iOS sdk 13 and using MVC architecture
 
 ## Screenshot
 
-![Alt text](/screenshots/img1.jpg?raw=true "Main Screen")
+![Alt text](/screenshots/calculator.png?raw=true "Main Screen")
 
 ## Main Functions:
 
